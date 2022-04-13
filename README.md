@@ -21,7 +21,7 @@ More:
 I have:
 
 <ul>
-<li> <a href="https://discord.com/">Discord</a> </li>
+<li> <a href="https://discord.com/">Discord</a> </li> ( above imageg ↑ )
 <li> <a href="https://www.youtube.com/channel/UCtH_hO_5HDAni7FC_x-hxDA">Youtube</a> </li>
 <li>Maybe Instagram, idk.</li>
 </ul>
