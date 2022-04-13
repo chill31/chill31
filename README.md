@@ -1,8 +1,5 @@
 # Read Me: Chill31.github.io
 
-
-###### this website is for chill31, a normal web developer with experience in js and html, css.
-
 <br>
 <br>
 
