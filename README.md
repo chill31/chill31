@@ -11,6 +11,8 @@ Basic:: (my website):
 
 <a href="https://chill31.github.io/"><button>Visit My Website!</button></a>
 
+<img src="https://imgur.com/a/AuUqr98">
+
 <br>
 <br>
 
