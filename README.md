@@ -3,13 +3,13 @@
 <br>
 <br>
 
-Basic:: (my website):
+## Some Development Info:
 
-- Website with many animations and advanced css / styling features.
-- Made by a 13 year old kid lol
-- Has about 20 projects, maybe more in the future, most of them are useful, others are just there.
+### - Currently I have a website, visit it below through the <a href="#btn">button</a>.
+### - I like python and have some few projects ( not released )
+### - A little bit of java, not released on github.
 
-<a href="https://chill31.github.io/"><button>Visit My Website!</button></a>
+<a href="https://chill31.github.io/" id="btn"><button>Visit My Website!</button></a>
 
 <img src="https://github.com/chill31/chill31/blob/main/Screenshot%202022-04-13%20203337.png" id="discord-profile">
 
