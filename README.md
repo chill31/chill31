@@ -55,7 +55,7 @@
   <li><a href="https://www.youtube.com/channel/UCtH_hO_5HDAni7FC_x-hxDA">Youtube</a></li>
 </ul>
 
-Check <a href="#discord-profile">The Above Image</a> to know my name and id.
+Check <a href="#discord-profile">The Above Image</a> to know my discord name and id if you wanna friend me.
 
 I think that's it, if you know anything more about me, then please do tell.
 
