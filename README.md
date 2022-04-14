@@ -5,9 +5,9 @@
 
 ## Some Development Info:
 
-### - Currently I have a website, visit it below through the <a href="#btn">button</a>.
-### - I like python and have some few projects ( not released )
-### - A little bit of java, not released on github.
+### » Currently I have a website, visit it below through the <a href="#btn">button</a>.
+### » I like python and have some few projects ( not released )
+### » A little bit of java, not released on github.
 
 <a href="https://chill31.github.io/" id="btn"><button>Visit My Website!</button></a>
 
