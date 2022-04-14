@@ -11,12 +11,16 @@ Basic:: (my website):
 
 <a href="https://chill31.github.io/"><button>Visit My Website!</button></a>
 
-<img src="https://github.com/chill31/chill31/blob/main/Screenshot%202022-04-13%20203337.png">
+<img src="https://github.com/chill31/chill31/blob/main/Screenshot%202022-04-13%20203337.png" id="discord-profile">
 
 <br>
 <br>
 
-## Here are my github stats:
+## Stats:
+
+<br>
+
+### Here are my github stats:
 
 <br>
 
@@ -24,7 +28,7 @@ Basic:: (my website):
 
 <br>
 
-## Here are my most used languages:
+### Here are my most used languages:
 
 <br>
 
@@ -35,28 +39,20 @@ Basic:: (my website):
 <br>
 <br>
 
-More:
+## Social Media:
 
-I have:
+<br>
+
+#### Talking about social media, I do not have that much accounts, just
 
 <ul>
-<li> <a href="https://discord.com/">Discord</a> </li> ( above image ↑ )
-<li> <a href="https://www.youtube.com/channel/UCtH_hO_5HDAni7FC_x-hxDA">Youtube</a> </li>
-<li>Maybe Instagram, idk.</li>
+  <li><a href="https://discord.com/">Discord</a></li>
+  <li><a href="https://www.youtube.com/channel/UCtH_hO_5HDAni7FC_x-hxDA">Youtube</a></li>
 </ul>
 
-I like to code a lot, I come home from school, study for 3 hours, take rest, code for 1 hour, play a little (outdoorsy sport) then rest, then do my homework...
+Check <a href="#discord-profile">The Above Image</a> to know my name and id.
 
-I like/dislike github for a few reasons:
-
-| Pros | Cons |
-| ----------- | ----------------- |
-| Free hosting | Long and annoying process of commiting and pushing code. |
-| saving process of code so if you make unwanted changes, you can delete them | Hosting does not work unless a repository is public | 
-
-> github is good, do not get me wrong here.
-
-Well, that's about it, see ya..
+I think that's it, if you know anything more about me, then please do tell.
 
 <a href="#surprise">Surprise!</a>
 
