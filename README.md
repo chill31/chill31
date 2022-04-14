@@ -30,7 +30,7 @@ Basic:: (my website):
 
 [![Chill31's top used Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chill31&layout=compact&custom_title=Languages%20I%20Use)](#)
 
-## U+200B
+## 
 
 <br>
 <br>
