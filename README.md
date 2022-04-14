@@ -16,13 +16,13 @@ Basic:: (my website):
 <br>
 <br>
 
-##Here are my github stats:
+## Here are my github stats:
 <br>
 [![Chill31's github stats](https://github-readme-stats.vercel.app/api?username=chill31&show_icons=true&hide_border&icon_color=2293fa1&theme=react&border_radius=5&bg_color=45,2293fa,000,222,222,111,2293fa&custom_title=My%20Github%20Stats)](#)
 
 <br>
 
-##Here are my most used languages:
+## Here are my most used languages:
 <br>
 [![Chill31's top used Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chill31&layout=compact&custom_title=Languages%20I%20Use)](#)
 
@@ -49,8 +49,6 @@ I like/dislike github for a few reasons:
 | saving process of code so if you make unwanted changes, you can delete them | Hosting does not work unless a repository is public | 
 
 > github is good, do not get me wrong here.
-
-[the name was not real of course.];
 
 Well, that's about it, see ya..
 
