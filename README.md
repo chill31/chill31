@@ -5,13 +5,13 @@
 
 ## Some Development Info:
 
-### » Currently I have a website, visit it below through the <a href="#btn">button</a>.
+### » Currently I have a website, visit it below through the button below.
 ### » I like python and have some few projects ( not released )
 ### » A little bit of java, not released on github.
 
 ||
 | ----------- |
-| <a href="https://chill31.github.io/" id="btn"></a> |
+| [My Website](https://chill31.github.io) |
 
 <img src="https://github.com/chill31/chill31/blob/main/Screenshot%202022-04-13%20203337.png" id="discord-profile">
 
