@@ -13,6 +13,9 @@
 | [My Website](https://chill31.github.io) |
 | [Source Code](https://github.com/chill31/chill31.github.io) |
 
+<br>
+<br>
+
 <img src="https://github.com/chill31/chill31/blob/main/Screenshot%202022-04-13%20203337.png" id="discord-profile">
 
 <br>
