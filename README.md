@@ -5,7 +5,7 @@
 
 ## Some Development Info:
 
-### » Currently I have a website, [visit it](https://chill31.github.io).
+### » Currently I have a website, [check it out!](https://chill31.github.io).
 ### » I like python and have some few projects ( not released )
 ### » A little bit of java, not released on github.
 | Website Resources |
