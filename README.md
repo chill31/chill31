@@ -9,7 +9,7 @@
 ### » I like python and have some few projects ( not released )
 ### » A little bit of java, not released on github.
 
-<a href="https://chill31.github.io/" id="btn"><button>Visit My Website!</button></a>
+<a href="https://chill31.github.io/" id="btn"><button style="border: solid 1px white; padding: .5em 1em;">Visit My Website!</button></a>
 
 <img src="https://github.com/chill31/chill31/blob/main/Screenshot%202022-04-13%20203337.png" id="discord-profile">
 
